@@ -18,3 +18,6 @@ http_access deny all
 service squid restart
 
 如果修改密码请vi编辑/etc/squid/passwd文件，htpasswd加密方式为crypt
+
+
+代理pac地址（码云）：https://git.oschina.net/sam555/GreatWallPac/raw/6d4da28f2a5dfb4559664ff13ef6b0cc70472494/default.pac
