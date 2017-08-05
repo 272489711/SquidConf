@@ -21,3 +21,6 @@ service squid restart
 
 
 代理pac地址（码云）：https://git.oschina.net/sam555/GreatWallPac/raw/6d4da28f2a5dfb4559664ff13ef6b0cc70472494/default.pac
+
+
+搭建l2tp：https://github.com/philpl/setup-simple-ipsec-l2tp-vpn
